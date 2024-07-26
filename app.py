@@ -82,7 +82,7 @@ st.markdown("""
         background-color: #E8E0D1;
     }
     </style>
-    <h3>Masukkan Data Pelanggan</h3>
+    <h3>Enter Customer Data</h3>
 """, unsafe_allow_html=True)
 
 # Input pengguna
@@ -121,5 +121,5 @@ if st.button('Predict'):
 # Tambahkan elemen HTML untuk output
 st.markdown("""
     <h3>Output Prediksi</h3>
-    <p>Hasil prediksi akan ditampilkan di sini.</p>
+    <p>The predicted results will be displayed here.</p>
 """, unsafe_allow_html=True)
