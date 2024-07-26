@@ -57,7 +57,7 @@ st.markdown("""
         color: #4b4b4b;
     }
     .stButton>button {
-        background-color: #4b4b4b;
+        background-color: #826D42;
         color: black;
         padding: 10px 24px;
         border: none;
@@ -65,7 +65,7 @@ st.markdown("""
         cursor: pointer;
     }
     .stButton>button:hover {
-        background-color: #4b4b4b;
+        background-color: #C7B590;
     }
     .stNumberInput, .stSelectbox {
         margin-bottom: 20px;
@@ -79,7 +79,7 @@ st.title("Predicting Customer Reactions to Online Food Orders")
 st.markdown("""
     <style>
     .main {
-        background-color: #C7B590;
+        background-color: #E8E0D1;
     }
     </style>
     <h3>Masukkan Data Pelanggan</h3>
